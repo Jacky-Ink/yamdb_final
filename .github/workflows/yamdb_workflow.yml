@@ -45,7 +45,7 @@ jobs:
         with:
           push: true
           context: ./api_yamdb/
-          tags: jacky1nk/yamdb_final
+          tags: jacky1nk/yamdb_final:latest
   
   deploy:
     runs-on: ubuntu-latest
