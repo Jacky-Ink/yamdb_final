@@ -44,7 +44,7 @@ build_and_push_to_docker_hub:
         with:
           context: ./api_yamdb/
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/api_yamdb:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/infra-web:latest
   
 deploy:
     runs-on: ubuntu-latest
