@@ -19,8 +19,7 @@
 ![sorl-thumbnail version](https://img.shields.io/badge/Django%20REST%20Framework-%203.12.4-green)
 ![python version](https://img.shields.io/badge/Docker-3.3-green)
 ![python version](https://img.shields.io/badge/Nginx-%201.18-green)
-![python version](https://img.shields.io/badge/Docker-3.3-green)
-![python version](https://img.shields.io/badge/Docker-3.3-green)
+
 
 ### Как запустить проект:
 
