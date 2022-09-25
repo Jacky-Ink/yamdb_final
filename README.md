@@ -67,6 +67,8 @@ POST /api/v1/titles/
     "category": "films"
 }
 ```
+xnksvnknvlvks;mvlmv;n;kejblvm;kebv kvbenvekn;
+lmkvm
+Авторы проекта:
 
-Авторы проекта: 
 Кляхина Инна, Multykot
