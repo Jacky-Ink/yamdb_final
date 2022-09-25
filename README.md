@@ -69,5 +69,9 @@ POST /api/v1/titles/
 ```
 
 Авторы данного проекта:
+
 Jacky_ink, Multykot
-изменение ключа))
+
+добавлен докер композ
+
+b jcnfkmyjt ufdyj bp chfyjq b ytgjyznyjq ntjhbb
