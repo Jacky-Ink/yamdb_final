@@ -67,4 +67,5 @@ POST /api/v1/titles/
     "category": "films"
 }
 ```
+
 Авторы: Кляхина Инна, Multykot
