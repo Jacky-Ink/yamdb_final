@@ -2,7 +2,7 @@ from django.db import IntegrityError
 from rest_framework import serializers
 from rest_framework.relations import SlugRelatedField
 # если сюда вставить пустую строку, то проект тесты не проходит, ошибка I004
-# понятно, что этот файл можно внечти в игнор, но невижу смысла 
+# понятно, что этот файл можно внечти в игнор, но невижу смысла
 from reviews.models import Category, Comment, Genre, Review, Title
 from users.models import User
 
