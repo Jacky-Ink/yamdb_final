@@ -73,4 +73,5 @@ POST /api/v1/titles/
 ```
 
 Авторы проекта:
+
 Кляхина И.А., Multykot
