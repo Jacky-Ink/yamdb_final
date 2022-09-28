@@ -1,6 +1,6 @@
 # yamdb_final
 
-http://51.250.30.137/api/v1/
+http://51.250.30.137/redoc/
 
 ![yamdb_final](https://github.com/Jacky-Ink/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
