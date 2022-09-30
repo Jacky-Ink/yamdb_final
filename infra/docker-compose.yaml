@@ -10,7 +10,7 @@ services:
       - ./.env
 
   web:
-    image: jacky1nk/infra-web:latest
+    image: jacky1nk/web:latest
     restart: always
     volumes:
       - static_value:/app/static/

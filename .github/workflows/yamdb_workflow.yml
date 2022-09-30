@@ -45,7 +45,7 @@ jobs:
         with: 
           push: true
           file: ./api_yamdb/Dockerfile
-          tags: jacky1nk/infra-web:latest
+          tags: jacky1nk/web:latest
 
   deploy:
     runs-on: ubuntu-latest
